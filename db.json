@@ -1,0 +1,116 @@
+{
+  "projects": [
+    {
+      "guid": "d95c12db-8a11-458d-804b-9cfeb2636625",
+      "title": "Projet Pomodoro",
+      "teams": [
+        {
+          "member": "Carine",
+          "permissions": "Admin",
+          "project_timer": 86400
+        },
+        {
+          "member": "Quentin",
+          "permissions": "Admin",
+          "project_timer": 96400
+        },
+        {
+          "member": "Adrien",
+          "permissions": "Admin",
+          "project_timer": 76400
+        },
+        {
+          "member": "Vincent",
+          "permissions": "Admin",
+          "project_timer": 6400
+        }
+      ],
+      "todolist": [
+        {
+          "todo_guid": "0113ba75-59e6-4d79-864e-b7a9367cc4ff",
+          "todo_title": "Faire une tâche",
+          "todo_status": 1,
+          "todo_timer": 7777
+        },
+        {
+          "todo_guid": "6c517cbf-a553-48f6-840c-f679a029b6cf",
+          "todo_title": "Faire une autre tâche",
+          "todo_status": 0,
+          "todo_timer": 0
+        }
+      ]
+    },
+    {
+      "guid": "d95c12db-8a11-458d-804b-9cfeb2636623",
+      "title": "Projet Pomodoro-API",
+      "teams": [
+        {
+          "member": "Carine",
+          "permissions": "Member",
+          "project_timer": 6400
+        },
+        {
+          "member": "Quentin",
+          "permissions": "Member",
+          "project_timer": 9400
+        },
+        {
+          "member": "Adrien",
+          "permissions": "Member",
+          "project_timer": 7400
+        },
+        {
+          "member": "Vincent",
+          "permissions": "Admin",
+          "project_timer": 65400
+        }
+      ],
+      "todolist": [
+        {
+          "todo_guid": "0113b555-59e6-4d79-864e-b7a9367cc4ff",
+          "todo_title": "Faire une tâche bis",
+          "todo_status": 1,
+          "todo_timer": 7777
+        },
+        {
+          "todo_guid": "6c517cbf-a223-48f6-840c-f679a029b6cf",
+          "todo_title": "Faire une autre tâche bis",
+          "todo_status": 0,
+          "todo_timer": 0
+        }
+      ]
+    },
+    {
+      "guid": "d23c12db-8a11-458d-804b-9cfeb2636623",
+      "title": "Projet Other",
+      "teams": [
+        {
+          "member": "Adrien",
+          "permissions": "Member",
+          "project_timer": 7400
+        },
+        {
+          "member": "Vincent",
+          "permissions": "Admin",
+          "project_timer": 65400
+        }
+      ]
+    },
+    {
+      "guid": "f304e2b7-9036-421f-a907-dfe1c09ea907",
+      "title": "Projet Other",
+      "teams": [
+        {
+          "member": "Adrien",
+          "permissions": "Member",
+          "project_timer": 7400
+        },
+        {
+          "member": "Vincent",
+          "permissions": "Admin",
+          "project_timer": 65400
+        }
+      ]
+    }
+  ]
+}
